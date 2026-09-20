@@ -1,0 +1,851 @@
+id,content,category
+1,I have had a fever for three days,general_physician
+2,Feeling tired and weak all the time,general_physician
+3,Persistent cough with mild cold,general_physician
+4,Body ache and chills since yesterday,general_physician
+5,I need a general health checkup,general_physician
+6,Sore throat and runny nose,general_physician
+7,Feeling dizzy and weak in the morning,general_physician
+8,Mild fever with headache,general_physician
+9,Fatigue and loss of appetite,general_physician
+10,I want a routine blood test,general_physician
+11,Recurring low grade fever at night,general_physician
+12,Cough and sneezing for a week,general_physician
+13,Feeling weak after a viral infection,general_physician
+14,General weakness and tiredness,general_physician
+15,I need a seasonal flu vaccine,general_physician
+16,Mild body pain and fever,general_physician
+17,Frequent tiredness during the day,general_physician
+18,Dry cough and mild chest discomfort,general_physician
+19,I want a full body health screening,general_physician
+20,Loss of appetite and mild fever,general_physician
+21,Cold and cough with mild sore throat,general_physician
+22,Feeling unwell after travel,general_physician
+23,Mild fever with body ache,general_physician
+24,I need a general consultation,general_physician
+25,Fatigue and mild headache,general_physician
+26,Chest pain while walking,cardiologist
+27,Shortness of breath on exertion,cardiologist
+28,High blood pressure readings at home,cardiologist
+29,Irregular heartbeat and palpitations,cardiologist
+30,Swelling in legs and feet,cardiologist
+31,Chest tightness after climbing stairs,cardiologist
+32,Frequent palpitations at night,cardiologist
+33,Pain in left arm with chest discomfort,cardiologist
+34,History of heart disease in family,cardiologist
+35,High cholesterol levels in recent test,cardiologist
+36,Dizziness with chest discomfort,cardiologist
+37,Palpitations after mild exercise,cardiologist
+38,Feeling pressure in the chest,cardiologist
+39,Shortness of breath while lying down,cardiologist
+40,Blood pressure not controlled by medicines,cardiologist
+41,Racing heartbeat during rest,cardiologist
+42,Chest pain radiating to the jaw,cardiologist
+43,I need a heart checkup,cardiologist
+44,Murmur detected in recent exam,cardiologist
+45,Fatigue with mild chest discomfort,cardiologist
+46,Swelling in ankles after long standing,cardiologist
+47,Pain in chest after emotional stress,cardiologist
+48,Heart rate above 100 at rest,cardiologist
+49,Follow up for heart condition,cardiologist
+50,Family history of sudden cardiac death,cardiologist
+51,Itchy rash on both arms,dermatologist
+52,Acne breakouts on the face,dermatologist
+53,Hair fall and thinning on top,dermatologist
+54,Red patches on the skin,dermatologist
+55,Skin dryness and flaking,dermatologist
+56,Pimple like bumps on the back,dermatologist
+57,Dark spots on the face,dermatologist
+58,Itching and redness in the groin area,dermatologist
+59,White patches on the skin,dermatologist
+60,Nail discoloration and brittleness,dermatologist
+61,Eczema flare up on the hands,dermatologist
+62,Allergic skin reaction after new soap,dermatologist
+63,Recurring fungal infection on feet,dermatologist
+64,Rash after eating a new food,dermatologist
+65,Painful boils on the neck,dermatologist
+66,Skin tags on the neck,dermatologist
+67,Warts on the fingers,dermatologist
+68,Sunburn with peeling skin,dermatologist
+69,Hives after a new medicine,dermatologist
+70,Persistent dandruff and scalp itching,dermatologist
+71,Mole that changed color recently,dermatologist
+72,Itchy scalp with small bumps,dermatologist
+73,Skin rash spreading on the body,dermatologist
+74,Dry and cracked skin on elbows,dermatologist
+75,Repeated skin allergy in summer,dermatologist
+76,Knee pain while climbing stairs,orthopedic
+77,Lower back pain after lifting,orthopedic
+78,Shoulder pain while raising the arm,orthopedic
+79,Ankle sprain after a fall,orthopedic
+80,Joint stiffness in the morning,orthopedic
+81,Hip pain while walking,orthopedic
+82,Neck pain after long hours at desk,orthopedic
+83,Wrist pain after typing,orthopedic
+84,Suspected fracture after a fall,orthopedic
+85,Heel pain in the morning,orthopedic
+86,Swelling around the knee,orthopedic
+87,Elbow pain after sports,orthopedic
+88,Chronic back pain for months,orthopedic
+89,Sports injury to the leg,orthopedic
+90,Shoulder dislocation history,orthopedic
+91,Joint pain with swelling,orthopedic
+92,Pain in the foot after running,orthopedic
+93,Stiffness in the fingers,orthopedic
+94,Leg pain while walking short distances,orthopedic
+95,Posture related back pain,orthopedic
+96,Sciatica pain down the leg,orthopedic
+97,Knee locking or catching,orthopedic
+98,Recurring ankle instability,orthopedic
+99,Muscle strain in the thigh,orthopedic
+100,Bone pain after an accident,orthopedic
+101,Frequent headaches in the evening,neurologist
+102,Dizziness and light headedness,neurologist
+103,Numbness in hands and feet,neurologist
+104,Memory problems in recent months,neurologist
+105,Tingling sensation in fingers,neurologist
+106,Recurring migraine attacks,neurologist
+107,Seizure episode last week,neurologist
+108,Tremor in the hands,neurologist
+109,Slurred speech one time,neurologist
+110,Weakness on one side of the body,neurologist
+111,Chronic headache with nausea,neurologist
+112,Vertigo with spinning sensation,neurologist
+113,Loss of balance while walking,neurologist
+114,Pins and needles in the feet,neurologist
+115,Facial twitching on one side,neurologist
+116,Difficulty concentrating,neurologist
+117,Sleep related movement issues,neurologist
+118,Recurring blackouts,neurologist
+119,Neuropathy related pain,neurologist
+120,Headache after a head injury,neurologist
+121,Painful nerve pain in legs,neurologist
+122,Coordination problems while walking,neurologist
+123,Double vision occasionally,neurologist
+124,Muscle weakness in the arms,neurologist
+125,Persistent tingling in the hands,neurologist
+126,Stomach pain after eating,gastroenterologist
+127,Acidity and heartburn,gastroenterologist
+128,Bloating and gas problems,gastroenterologist
+129,Constipation for several days,gastroenterologist
+130,Diarrhea for two days,gastroenterologist
+131,Nausea and vomiting,gastroenterologist
+132,Blood in stool,gastroenterologist
+133,Indigestion after meals,gastroenterologist
+134,Loss of appetite with weight loss,gastroenterologist
+135,Recurring stomach cramps,gastroenterologist
+136,Jaundice with yellow eyes,gastroenterologist
+137,Pain in the right upper abdomen,gastroenterologist
+138,Irritable bowel symptoms,gastroenterologist
+139,Chronic acidity at night,gastroenterologist
+140,Bloating after dairy products,gastroenterologist
+141,Bloody diarrhea,gastroenterologist
+142,Persistent nausea in the morning,gastroenterologist
+143,Abdominal pain with fever,gastroenterologist
+144,Rectal bleeding,gastroenterologist
+145,Swallowing difficulty,gastroenterologist
+146,Chronic constipation,gastroenterologist
+147,Stomach ulcer history,gastroenterologist
+148,Liver related discomfort,gastroenterologist
+149,Gallbladder pain after meals,gastroenterologist
+150,Vomiting after food,gastroenterologist
+151,Ear pain on the right side,ent
+152,Blocked nose for a week,ent
+153,Sore throat with difficulty swallowing,ent
+154,Ringing in the ears,ent
+155,Hearing loss in one ear,ent
+156,Chronic sinus pressure,ent
+157,Frequent throat infections,ent
+158,Snoring and mouth breathing,ent
+159,Itchy ears and discharge,ent
+160,Loss of smell,ent
+161,Nose bleeding frequently,ent
+162,Voice hoarseness for weeks,ent
+163,Tonsil pain and swelling,ent
+164,Ear infection with fever,ent
+165,Nose blockage during sleep,ent
+166,Throat clearing constantly,ent
+167,Post nasal drip,ent
+168,Recurring sinus headaches,ent
+169,Pain in the ear while flying,ent
+170,Mouth ulcers that will not heal,ent
+171,Ear buzzing after loud noise,ent
+172,Nasal allergy in the morning,ent
+173,Sore throat with cough,ent
+174,Trouble hearing in crowded places,ent
+175,Feeling of fullness in the ear,ent
+176,Severe chest pain with sweating,emergency
+177,Difficulty breathing at rest,emergency
+178,Sudden weakness on one side of the body,emergency
+179,Slurred speech with confusion,emergency
+180,Severe bleeding from a wound,emergency
+181,Sudden loss of vision in one eye,emergency
+182,Fainting and unresponsive,emergency
+183,Severe abdominal pain with vomiting,emergency
+184,Severe head injury with vomiting,emergency
+185,Burns over a large area,emergency
+186,Seizure lasting more than five minutes,emergency
+187,Severe allergic reaction with swelling,emergency
+188,Crushing chest pain with breathlessness,emergency
+189,Coughing up blood,emergency
+190,Severe asthma attack,emergency
+191,Sudden confusion and disorientation,emergency
+192,Major road accident injuries,emergency
+193,Poisoning or overdose,emergency
+194,Severe dehydration with weakness,emergency
+195,Sudden inability to speak,emergency
+196,Chest pain with rapid pulse,emergency
+197,Severe pain in the abdomen with fever,emergency
+198,Heavy bleeding after a fall,emergency
+199,Unconscious after a fall,emergency
+200,Severe difficulty breathing with blue lips,emergency
+201,Mild fever and tiredness for two days,general_physician
+202,Feeling weak after having a cold,general_physician
+203,Runny nose and mild fever since yesterday,general_physician
+204,Feeling tired throughout the day,general_physician
+205,Mild headache with a common cold,general_physician
+206,Body aches with a low grade fever,general_physician
+207,Feeling generally unwell since this morning,general_physician
+208,Occasional cough and mild fever,general_physician
+209,Feeling weak after recovering from flu,general_physician
+210,Loss of energy and mild body aches,general_physician
+211,Mild sore throat and tiredness,general_physician
+212,Feeling feverish with no other severe symptoms,general_physician
+213,General fatigue for several days,general_physician
+214,Mild chills and body discomfort,general_physician
+215,I have a mild cold and headache,general_physician
+216,Feeling sleepy and tired more than usual,general_physician
+217,Mild fever after recent travel,general_physician
+218,Feeling weak with a poor appetite,general_physician
+219,General body weakness for a few days,general_physician
+220,I want a routine health examination,general_physician
+221,I need a general medical consultation,general_physician
+222,Mild cough with a runny nose,general_physician
+223,Feeling tired after a viral illness,general_physician
+224,Mild fever with reduced appetite,general_physician
+225,Occasional headache and fatigue,general_physician
+226,Feeling weak after several days of poor sleep,general_physician
+227,Low grade fever with mild muscle aches,general_physician
+228,Feeling unwell with mild cold symptoms,general_physician
+229,Mild seasonal allergy symptoms and fatigue,general_physician
+230,I have been feeling tired and feverish,general_physician
+231,Mild chills with a runny nose,general_physician
+232,General weakness after recovering from an infection,general_physician
+233,Mild cough without serious breathing problems,general_physician
+234,Feeling tired and having a mild headache,general_physician
+235,Low energy and mild fever since yesterday,general_physician
+236,I have a slight fever and body ache,general_physician
+237,Feeling generally weak after a busy week,general_physician
+238,Mild cold symptoms for three days,general_physician
+239,I need advice about a routine health checkup,general_physician
+240,Feeling tired with mild throat irritation,general_physician
+241,Occasional mild fever during the evening,general_physician
+242,Mild headache with tiredness after work,general_physician
+243,Feeling weak and having difficulty maintaining energy,general_physician
+244,Mild flu like symptoms since yesterday,general_physician
+245,General fatigue with no severe pain,general_physician
+246,Feeling slightly feverish and tired,general_physician
+247,Mild cough and body aches,general_physician
+248,Loss of energy following a common cold,general_physician
+249,Feeling unwell with mild fever and chills,general_physician
+250,I want to discuss my general health,general_physician
+251,Mild weakness and occasional dizziness,general_physician
+252,Feeling tired with a slight loss of appetite,general_physician
+253,Common cold symptoms with mild body pain,general_physician
+254,Feeling feverish after being outside in the rain,general_physician
+255,Mild fatigue that has lasted several days,general_physician
+256,General weakness with a mild headache,general_physician
+257,Feeling tired after recovering from a cold,general_physician
+258,Mild fever and occasional sneezing,general_physician
+259,I have mild body aches and feel unwell,general_physician
+260,Feeling weak and tired in the afternoon,general_physician
+261,Mild cough and nasal discharge,general_physician
+262,Low energy with mild flu symptoms,general_physician
+263,Feeling slightly sick after returning from travel,general_physician
+264,Mild fever with tiredness and chills,general_physician
+265,General health checkup after feeling fatigued,general_physician
+266,Mild sore throat and runny nose,general_physician
+267,Feeling tired with occasional mild fever,general_physician
+268,Body weakness after a recent viral infection,general_physician
+269,Mild headache and nasal congestion,general_physician
+270,Feeling generally tired without severe symptoms,general_physician
+271,Mild fever and decreased appetite for two days,general_physician
+272,Feeling weak with mild cold symptoms,general_physician
+273,Occasional cough and general tiredness,general_physician
+274,Mild body aches after a recent illness,general_physician
+275,Feeling tired and mildly feverish for three days,general_physician
+276,Chest discomfort after walking uphill,cardiologist
+277,Heart beating unusually fast during rest,cardiologist
+278,Blood pressure remains high despite regular monitoring,cardiologist
+279,Feeling skipped heartbeats several times a day,cardiologist
+280,Shortness of breath after moderate physical activity,cardiologist
+281,Pressure in the center of the chest during exercise,cardiologist
+282,Palpitations that occur suddenly at night,cardiologist
+283,Swelling in both ankles with a history of heart problems,cardiologist
+284,Feeling my heart race without exercising,cardiologist
+285,Chest discomfort that appears when climbing stairs,cardiologist
+286,High blood pressure detected during a recent checkup,cardiologist
+287,Irregular pulse noticed while checking my heartbeat,cardiologist
+288,Getting unusually breathless during normal activities,cardiologist
+289,Occasional chest heaviness after physical activity,cardiologist
+290,Heart pounding strongly while sitting quietly,cardiologist
+291,Follow up appointment for high blood pressure,cardiologist
+292,Family history of coronary artery disease,cardiologist
+293,Feeling occasional fluttering in my chest,cardiologist
+294,Shortness of breath when lying flat at night,cardiologist
+295,Chest pressure that improves after resting,cardiologist
+296,My heartbeat feels irregular sometimes,cardiologist
+297,High cholesterol found in my latest blood test,cardiologist
+298,Feeling lightheaded together with occasional palpitations,cardiologist
+299,Swelling around my ankles has been increasing,cardiologist
+300,Need evaluation for frequent heart palpitations,cardiologist
+301,Chest tightness during brisk walking,cardiologist
+302,Heart rate becomes very fast during mild exercise,cardiologist
+303,Blood pressure readings have been consistently elevated,cardiologist
+304,Occasional pounding sensation in my chest at night,cardiologist
+305,Feeling unusually tired with physical activity,cardiologist
+306,Chest discomfort after carrying heavy objects,cardiologist
+307,Irregular heartbeat noticed several times this week,cardiologist
+308,Shortness of breath while climbing several flights of stairs,cardiologist
+309,Need a follow up for an existing heart condition,cardiologist
+310,Family history of heart disease and high cholesterol,cardiologist
+311,Heart beats very quickly after small amounts of exercise,cardiologist
+312,Occasional pressure in my chest while walking,cardiologist
+313,My blood pressure has been high for several weeks,cardiologist
+314,Feeling palpitations after drinking coffee,cardiologist
+315,Ankle swelling that gets worse toward evening,cardiologist
+316,Heart rhythm feels different from normal,cardiologist
+317,Getting breathless during routine household activities,cardiologist
+318,Chest heaviness that occurs during exercise,cardiologist
+319,Need an evaluation for persistent high blood pressure,cardiologist
+320,Occasional dizziness with an irregular heartbeat,cardiologist
+321,Feeling a strong pulse in my chest while resting,cardiologist
+322,Shortness of breath when lying down at night,cardiologist
+323,Chest discomfort associated with physical exertion,cardiologist
+324,Heart racing for several minutes without exercise,cardiologist
+325,Recent test showed unusually high cholesterol,cardiologist
+326,Swelling in the feet and ankles with breathlessness,cardiologist
+327,Feeling skipped beats when trying to sleep,cardiologist
+328,Chest pressure while walking quickly,cardiologist
+329,Need regular monitoring for hypertension,cardiologist
+330,Heart rate sometimes becomes irregular during rest,cardiologist
+331,Feeling breathless after climbing stairs,cardiologist
+332,Occasional mild chest discomfort during exercise,cardiologist
+333,Palpitations occurring repeatedly throughout the day,cardiologist
+334,My blood pressure is frequently above the normal range,cardiologist
+335,Family history of heart rhythm problems,cardiologist
+336,Feeling tired and breathless during physical activity,cardiologist
+337,Heart pounding after only a short walk,cardiologist
+338,Chest tightness that appears with exertion,cardiologist
+339,Need a heart health evaluation after abnormal test results,cardiologist
+340,Occasional fluttering sensation near my heart,cardiologist
+341,Ankle swelling without an obvious injury,cardiologist
+342,Heartbeat becomes irregular after exercise,cardiologist
+343,High blood pressure found during multiple readings,cardiologist
+344,Shortness of breath during normal daily activities,cardiologist
+345,Chest heaviness that goes away after resting,cardiologist
+346,Feeling my heart skip beats while sitting,cardiologist
+347,Need follow up after an abnormal heart test,cardiologist
+348,Occasional palpitations with mild dizziness,cardiologist
+349,Heart beats strongly when I lie down,cardiologist
+350,Getting unusually breathless during a short walk,cardiologist
+351,Itchy red patches appearing on my arms,dermatologist
+352,Small painful pimples have appeared on my face,dermatologist
+353,My scalp has been very itchy and flaky,dermatologist
+354,Red itchy skin after using a new cosmetic product,dermatologist
+355,Dark patches have developed on my cheeks,dermatologist
+356,My skin becomes very dry during the winter,dermatologist
+357,Small bumps and itching on my upper arms,dermatologist
+358,Recurring rash on my hands,dermatologist
+359,White flaky patches around my scalp,dermatologist
+360,My hair has been falling out more than usual,dermatologist
+361,Itchy skin between my toes,dermatologist
+362,Redness and irritation after using a new soap,dermatologist
+363,Painful acne has appeared on my back,dermatologist
+364,A mole on my arm looks different from before,dermatologist
+365,Small wart has appeared on one of my fingers,dermatologist
+366,My skin is peeling after too much sun exposure,dermatologist
+367,Recurring hives appearing on my arms,dermatologist
+368,Cracked and dry skin around my heels,dermatologist
+369,Itchy rash spreading across my chest,dermatologist
+370,My nails have become brittle and discolored,dermatologist
+371,Scalp itching with persistent dandruff,dermatologist
+372,Red patches developed after eating certain foods,dermatologist
+373,Painful boil appeared on my skin,dermatologist
+374,Small skin tags have appeared around my neck,dermatologist
+375,My face has developed several dark spots,dermatologist
+376,Recurring fungal rash on my feet,dermatologist
+377,Skin irritation after using a new detergent,dermatologist
+378,My lips and surrounding skin are becoming very dry,dermatologist
+379,Itchy bumps appeared after an insect bite,dermatologist
+380,Red and scaly skin on my elbows,dermatologist
+381,Acne has become worse over the past few weeks,dermatologist
+382,My scalp has red itchy areas,dermatologist
+383,Small painful lumps have appeared under my skin,dermatologist
+384,My skin is unusually sensitive and irritated,dermatologist
+385,Recurring rash around my neck,dermatologist
+386,Itching and redness under my arms,dermatologist
+387,My fingernails have developed white and yellow patches,dermatologist
+388,Dry flaky skin has appeared around my nose,dermatologist
+389,I have persistent itching without a visible wound,dermatologist
+390,Red itchy patches appeared after using a new cream,dermatologist
+391,Hair is thinning noticeably near my forehead,dermatologist
+392,Small bumps appeared after shaving,dermatologist
+393,My skin has become darker around my neck,dermatologist
+394,Recurring eczema on my hands,dermatologist
+395,Itchy rash appeared after exposure to sunlight,dermatologist
+396,A painful skin infection developed near my leg,dermatologist
+397,My scalp feels dry and has excessive flakes,dermatologist
+398,Several new spots have appeared on my skin,dermatologist
+399,Redness and itching around my ankles,dermatologist
+400,My skin keeps becoming irritated after bathing,dermatologist
+401,Small blisters appeared on my fingers,dermatologist
+402,My acne leaves dark marks on my face,dermatologist
+403,Itchy skin around an old scar,dermatologist
+404,Recurring rash appears during hot weather,dermatologist
+405,My hair has become noticeably thinner,dermatologist
+406,Red dry patches appeared behind my ears,dermatologist
+407,My skin feels rough and unusually dry,dermatologist
+408,Itchy circular patches appeared on my leg,dermatologist
+409,A new mole has appeared on my back,dermatologist
+410,My scalp is itchy after using hair products,dermatologist
+411,Small red spots appeared across my arms,dermatologist
+412,Persistent dandruff despite regular hair washing,dermatologist
+413,My skin becomes itchy whenever I sweat,dermatologist
+414,Recurring painful pimples on my face,dermatologist
+415,Red flaky skin around my eyebrows,dermatologist
+416,My toenails have become thick and discolored,dermatologist
+417,Itchy patches appeared after wearing new clothes,dermatologist
+418,My hands are dry and cracking frequently,dermatologist
+419,A rash has persisted for more than a week,dermatologist
+420,My skin is peeling and irritated around my fingers,dermatologist
+421,Dark spots have appeared after an old rash healed,dermatologist
+422,Small itchy bumps appeared on my legs,dermatologist
+423,My scalp has been unusually oily and itchy,dermatologist
+424,Recurring redness around my nose and cheeks,dermatologist
+425,My skin reacts badly to several cosmetic products,dermatologist
+426,Knee pain after climbing stairs,orthopedic
+427,Lower back pain after sitting for long hours,orthopedic
+428,Shoulder pain when reaching overhead,orthopedic
+429,Ankle pain after twisting my foot,orthopedic
+430,Stiffness in my knees after waking up,orthopedic
+431,Hip pain that gets worse while walking,orthopedic
+432,Neck pain after working at a computer,orthopedic
+433,Wrist pain after typing for several hours,orthopedic
+434,Swelling around the knee after exercise,orthopedic
+435,Heel pain when taking the first steps in the morning,orthopedic
+436,Elbow pain after playing tennis,orthopedic
+437,Back pain after lifting a heavy box,orthopedic
+438,Shoulder stiffness that limits movement,orthopedic
+439,Pain in my ankle after a sports injury,orthopedic
+440,Joint pain in both knees,orthopedic
+441,Pain in my foot after running,orthopedic
+442,Finger joints feel stiff in the morning,orthopedic
+443,Lower back pain spreading toward the hip,orthopedic
+444,My knee sometimes locks when I bend it,orthopedic
+445,Repeated ankle sprains while walking,orthopedic
+446,Muscle strain in my thigh after exercise,orthopedic
+447,Pain in my shoulder after lifting weights,orthopedic
+448,Chronic pain in my lower back,orthopedic
+449,Wrist pain that gets worse while using a mouse,orthopedic
+450,Knee swelling after a long walk,orthopedic
+451,My hip hurts when I stand for a long time,orthopedic
+452,Neck stiffness after sleeping in an awkward position,orthopedic
+453,Pain around my kneecap while running,orthopedic
+454,Ankle swelling after a minor injury,orthopedic
+455,Back pain that has lasted several months,orthopedic
+456,Shoulder pain when putting on a shirt,orthopedic
+457,Elbow stiffness after an old injury,orthopedic
+458,Foot pain after standing all day,orthopedic
+459,Joint stiffness after sitting for a long time,orthopedic
+460,Pain in my knee after playing football,orthopedic
+461,Lower back pain when bending forward,orthopedic
+462,My wrist hurts when I lift objects,orthopedic
+463,Shoulder pain that gets worse at night,orthopedic
+464,Recurring pain in my ankle while running,orthopedic
+465,My knees feel weak while going downstairs,orthopedic
+466,Back pain after a long motorcycle ride,orthopedic
+467,Stiffness and pain in my hip,orthopedic
+468,Elbow pain after repetitive movements,orthopedic
+469,Painful swelling around a finger joint,orthopedic
+470,Heel pain after standing for several hours,orthopedic
+471,My shoulder movement is becoming limited,orthopedic
+472,Lower back pain after exercising,orthopedic
+473,Knee discomfort that returns after physical activity,orthopedic
+474,Ankle feels unstable while walking,orthopedic
+475,Neck pain after spending hours looking down at my phone,orthopedic
+476,Pain in my joints after physical activity,orthopedic
+477,Back stiffness every morning,orthopedic
+478,My knee hurts when I squat,orthopedic
+479,Wrist discomfort after long hours of computer work,orthopedic
+480,Pain around my shoulder blade,orthopedic
+481,Hip pain when climbing stairs,orthopedic
+482,My ankle remains sore after a previous sprain,orthopedic
+483,Elbow pain when lifting a bag,orthopedic
+484,Stiffness in my fingers while gripping objects,orthopedic
+485,Foot pain that increases after walking,orthopedic
+486,Recurring lower back pain after sitting,orthopedic
+487,Knee pain and mild swelling after exercise,orthopedic
+488,Shoulder discomfort when reaching behind my back,orthopedic
+489,Neck pain and stiffness after waking up,orthopedic
+490,Pain in my thigh after running,orthopedic
+491,My hip becomes painful after long walks,orthopedic
+492,Ankle pain after stepping awkwardly,orthopedic
+493,My knee makes a clicking sound with discomfort,orthopedic
+494,Back pain that worsens when lifting things,orthopedic
+495,Wrist pain after repetitive hand movements,orthopedic
+496,Shoulder pain after carrying a heavy backpack,orthopedic
+497,Stiff joints in the morning with difficulty moving,orthopedic
+498,Persistent pain around my knee,orthopedic
+499,Heel discomfort that is worse in the morning,orthopedic
+500,Muscle pain after a sports activity,orthopedic
+501,Frequent headaches that have been occurring for several weeks,neurologist
+502,Recurring migraine attacks with sensitivity to light,neurologist
+503,Numbness in my fingers and hands,neurologist
+504,Tingling sensation in both feet,neurologist
+505,Feeling dizzy and having difficulty maintaining balance,neurologist
+506,Memory problems that have gradually increased,neurologist
+507,Occasional shaking in my hands,neurologist
+508,Headaches accompanied by nausea,neurologist
+509,Feeling a spinning sensation when I move my head,neurologist
+510,Repeated episodes of dizziness without fainting,neurologist
+511,Tingling and pins and needles in my feet,neurologist
+512,Weakness in my arms that has no obvious cause,neurologist
+513,Difficulty coordinating my movements,neurologist
+514,Recurring headaches that interfere with daily activities,neurologist
+515,Experiencing a tremor while holding objects,neurologist
+516,Numbness on one side of my face,neurologist
+517,Occasional double vision with dizziness,neurologist
+518,Problems with balance while walking,neurologist
+519,Frequent migraines that return every month,neurologist
+520,Memory lapses during normal daily activities,neurologist
+521,Headache that has persisted despite getting enough sleep,neurologist
+522,Tingling in my hands when I wake up,neurologist
+523,Feeling weakness in one arm from time to time,neurologist
+524,Unexplained shaking in both hands,neurologist
+525,Spinning sensation accompanied by nausea,neurologist
+526,Recurring numbness in my feet,neurologist
+527,Difficulty concentrating on simple tasks,neurologist
+528,Headaches with sensitivity to bright lights,neurologist
+529,Feeling unsteady while walking,neurologist
+530,Occasional facial muscle twitching,neurologist
+531,Persistent tingling in my fingertips,neurologist
+532,Headaches that occur several times a week,neurologist
+533,Short episodes of dizziness and loss of balance,neurologist
+534,Memory difficulties that are becoming noticeable,neurologist
+535,Muscle weakness in both legs,neurologist
+536,Recurring nerve pain in my legs,neurologist
+537,Trembling hands when trying to write,neurologist
+538,Frequent migraine headaches with nausea,neurologist
+539,Loss of coordination when walking,neurologist
+540,Numbness around my mouth that comes and goes,neurologist
+541,Persistent headaches after a previous head injury,neurologist
+542,Feeling pins and needles in my hands,neurologist
+543,Occasional spinning sensation when standing up,neurologist
+544,Difficulty remembering recent conversations,neurologist
+545,Muscle weakness that affects my daily activities,neurologist
+546,Recurring headaches mostly on one side of my head,neurologist
+547,Hand tremors that are more noticeable when resting,neurologist
+548,Feeling unsteady when walking on uneven ground,neurologist
+549,Tingling and burning sensation in my feet,neurologist
+550,Occasional episodes of blurred or double vision,neurologist
+551,Frequent headaches with sensitivity to sound,neurologist
+552,Problems with coordination while using my hands,neurologist
+553,Numbness that occasionally affects one side of my body,neurologist
+554,Recurring dizziness with a spinning feeling,neurologist
+555,Difficulty focusing and concentrating for several months,neurologist
+556,Weakness in my legs after walking a short distance,neurologist
+557,Facial twitching that keeps returning,neurologist
+558,Headaches that become worse with physical activity,neurologist
+559,Occasional blackout episodes that need evaluation,neurologist
+560,Persistent tingling sensation in my arms,neurologist
+561,Feeling confused about familiar tasks sometimes,neurologist
+562,Recurring nerve pain with burning sensations,neurologist
+563,Tremor in my hands that occurs without exercise,neurologist
+564,Difficulty maintaining balance when turning around,neurologist
+565,Migraine attacks that sometimes cause vomiting,neurologist
+566,Numbness and weakness affecting my hand,neurologist
+567,Headaches occurring mostly in the morning,neurologist
+568,Occasional muscle twitching in my face,neurologist
+569,Difficulty coordinating my legs while walking,neurologist
+570,Tingling sensation that travels down my arm,neurologist
+571,Recurring episodes of vertigo,neurologist
+572,Memory problems affecting my studies or work,neurologist
+573,Frequent headaches with visual disturbances,neurologist
+574,Persistent weakness in my muscles,neurologist
+575,Repeated episodes of numbness and tingling,neurologist
+576,Stomach pain after eating spicy food,gastroenterologist
+577,Frequent heartburn after meals,gastroenterologist
+578,Bloating and abdominal discomfort after eating,gastroenterologist
+579,Constipation that has continued for several days,gastroenterologist
+580,Loose stools occurring several times a day,gastroenterologist
+581,Nausea and vomiting after eating,gastroenterologist
+582,Stomach cramps that keep returning,gastroenterologist
+583,Indigestion after most meals,gastroenterologist
+584,Abdominal bloating that gets worse in the evening,gastroenterologist
+585,Recurring acidity during the night,gastroenterologist
+586,Pain in the upper abdomen after meals,gastroenterologist
+587,Frequent gas and abdominal discomfort,gastroenterologist
+588,Changes in bowel habits for several weeks,gastroenterologist
+589,Diarrhea that has continued for several days,gastroenterologist
+590,Constipation with abdominal discomfort,gastroenterologist
+591,Feeling nauseous most mornings,gastroenterologist
+592,Stomach pain that comes and goes,gastroenterologist
+593,Burning sensation in my chest after eating,gastroenterologist
+594,Bloating after consuming dairy products,gastroenterologist
+595,Abdominal cramps before bowel movements,gastroenterologist
+596,Frequent indigestion and stomach discomfort,gastroenterologist
+597,Loss of appetite with ongoing stomach problems,gastroenterologist
+598,Pain in the upper right side of my abdomen,gastroenterologist
+599,Recurring stomach upset after meals,gastroenterologist
+600,Acid reflux when lying down,gastroenterologist
+601,Abdominal discomfort with frequent gas,gastroenterologist
+602,Hard stools and difficulty having bowel movements,gastroenterologist
+603,Loose stools after eating certain foods,gastroenterologist
+604,Persistent nausea without severe pain,gastroenterologist
+605,Stomach discomfort that gets worse after eating,gastroenterologist
+606,Frequent burping and heartburn,gastroenterologist
+607,Abdominal pain that has lasted for several weeks,gastroenterologist
+608,Feeling unusually bloated after small meals,gastroenterologist
+609,Recurring constipation despite drinking water,gastroenterologist
+610,Frequent episodes of diarrhea,gastroenterologist
+611,Nausea and reduced appetite for several days,gastroenterologist
+612,Burning acidity after dinner,gastroenterologist
+613,Stomach cramps with changes in bowel movements,gastroenterologist
+614,Indigestion and bloating after meals,gastroenterologist
+615,Persistent gas and abdominal fullness,gastroenterologist
+616,Pain around my stomach after eating,gastroenterologist
+617,Frequent acid reflux during sleep,gastroenterologist
+618,Constipation that keeps returning,gastroenterologist
+619,Abdominal pain accompanied by nausea,gastroenterologist
+620,Feeling full very quickly after eating,gastroenterologist
+621,Recurring diarrhea after certain foods,gastroenterologist
+622,Stomach pain with occasional vomiting,gastroenterologist
+623,Heartburn occurring several times a week,gastroenterologist
+624,Bloating and discomfort after large meals,gastroenterologist
+625,Irregular bowel movements for the past month,gastroenterologist
+626,Abdominal cramps with diarrhea,gastroenterologist
+627,Frequent nausea after meals,gastroenterologist
+628,Stomach burning that improves after taking antacid,gastroenterologist
+629,Loss of appetite and persistent digestive discomfort,gastroenterologist
+630,Abdominal pain after eating fatty foods,gastroenterologist
+631,Frequent constipation and bloating,gastroenterologist
+632,Recurrent indigestion throughout the week,gastroenterologist
+633,Loose stools with abdominal cramps,gastroenterologist
+634,Stomach discomfort with excessive burping,gastroenterologist
+635,Acid reflux and burning sensation in the throat,gastroenterologist
+636,Persistent bloating after meals,gastroenterologist
+637,Nausea that has continued for several days,gastroenterologist
+638,Recurring abdominal discomfort before meals,gastroenterologist
+639,Difficulty swallowing food with recurring digestive discomfort,gastroenterologist
+640,Stomach pain that returns after eating,gastroenterologist
+641,Frequent bowel urgency and loose stools,gastroenterologist
+642,Abdominal fullness and gas after meals,gastroenterologist
+643,Chronic heartburn that occurs at night,gastroenterologist
+644,Recurring stomach cramps and bloating,gastroenterologist
+645,Changes in bowel movements with abdominal discomfort,gastroenterologist
+646,Persistent digestive problems after meals,gastroenterologist
+647,Upper abdominal burning and indigestion,gastroenterologist
+648,Frequent nausea with stomach discomfort,gastroenterologist
+649,Constipation followed by abdominal bloating,gastroenterologist
+650,Recurring diarrhea and stomach cramps,gastroenterologist
+651,Ear pain that has continued for several days,ent
+652,Nose feels blocked most of the time,ent
+653,Ringing sound in my ears,ent
+654,Difficulty hearing clearly with one ear,ent
+655,Frequent sinus pressure around my forehead,ent
+656,Sore throat that keeps coming back,ent
+657,Snoring loudly while sleeping,ent
+658,Itching and discomfort inside my ear,ent
+659,Reduced sense of smell for several weeks,ent
+660,Frequent nosebleeds without an obvious injury,ent
+661,Voice has been hoarse for several weeks,ent
+662,Swollen and painful tonsils,ent
+663,Ear pain with a feeling of fullness,ent
+664,Nasal congestion that is worse at night,ent
+665,Constantly clearing my throat,ent
+666,Mucus dripping from my nose into my throat,ent
+667,Recurring sinus pressure with headache,ent
+668,Ear pain becomes worse during flights,ent
+669,Frequent sore throats during the year,ent
+670,Ear buzzing after attending a loud concert,ent
+671,Nasal allergies causing repeated sneezing,ent
+672,Trouble hearing conversations in crowded places,ent
+673,Feeling pressure inside my ears,ent
+674,Blocked nose with difficulty breathing through it,ent
+675,Recurring ear infections,ent
+676,Throat irritation that has lasted several weeks,ent
+677,Frequent sinus congestion in the morning,ent
+678,One ear feels blocked after swimming,ent
+679,Hearing seems reduced in my left ear,ent
+680,Frequent post nasal drip,ent
+681,Sinus pain around my cheeks and nose,ent
+682,My ears hurt when I swallow,ent
+683,Persistent nasal discharge and congestion,ent
+684,Voice changes after prolonged throat irritation,ent
+685,Recurring tonsil swelling and throat pain,ent
+686,Ear discharge with discomfort,ent
+687,Difficulty breathing through my nose while sleeping,ent
+688,Loss of smell after repeated nasal congestion,ent
+689,Ringing in my ears occurs every day,ent
+690,Sore throat with swollen glands,ent
+691,Frequent sneezing with an itchy nose,ent
+692,Sinus pressure gets worse when I bend forward,ent
+693,Hearing difficulty that has gradually increased,ent
+694,Feeling something is blocking my ear,ent
+695,Recurring nose blockage throughout the year,ent
+696,Throat feels irritated and I keep coughing,ent
+697,Ear discomfort after exposure to loud music,ent
+698,Frequent sinus headaches with congestion,ent
+699,Nosebleeds occurring several times a month,ent
+700,My voice has remained hoarse for many days,ent
+701,Painful swallowing with throat irritation,ent
+702,Recurring ear pain without an obvious injury,ent
+703,One side of my nose is frequently blocked,ent
+704,Pressure and fullness in both ears,ent
+705,Chronic nasal congestion with sneezing,ent
+706,Throat pain that returns frequently,ent
+707,Reduced hearing after an ear infection,ent
+708,Itchy ears with occasional discharge,ent
+709,Sinus congestion accompanied by facial pressure,ent
+710,Frequent throat clearing throughout the day,ent
+711,Blocked ears during air travel,ent
+712,Persistent runny nose with nasal irritation,ent
+713,Recurring sinus infections,ent
+714,Difficulty hearing high pitched sounds,ent
+715,Throat feels dry and irritated frequently,ent
+716,Frequent nasal allergy symptoms in the morning,ent
+717,Ear ringing that started after loud noise exposure,ent
+718,Recurring ear fullness and reduced hearing,ent
+719,Chronic sinus pressure around my eyes,ent
+720,Frequent sore throat without improvement,ent
+721,Nasal blockage that makes sleeping difficult,ent
+722,Hoarse voice after speaking for long periods,ent
+723,Persistent ear discomfort with mild hearing loss,ent
+724,Recurring nasal congestion and loss of smell,ent
+725,Throat irritation with frequent post nasal drip,ent
+726,Sudden severe chest pain with difficulty breathing,emergency
+727,Suddenly unable to move one side of my body,emergency
+728,Severe difficulty breathing that started suddenly,emergency
+729,Heavy bleeding that will not stop,emergency
+730,Loss of consciousness after a sudden collapse,emergency
+731,Sudden inability to speak clearly,emergency
+732,Severe allergic reaction with swelling of the throat,emergency
+733,Severe chest pressure with cold sweating,emergency
+734,Sudden loss of vision in one eye,emergency
+735,Severe breathing difficulty with bluish lips,emergency
+736,Unconscious after suffering a serious fall,emergency
+737,Severe head injury followed by repeated vomiting,emergency
+738,Seizure that has continued for several minutes,emergency
+739,Sudden confusion and difficulty understanding speech,emergency
+740,Major bleeding after a serious accident,emergency
+741,Severe abdominal pain with persistent vomiting,emergency
+742,Sudden weakness affecting one side of the body,emergency
+743,Severe shortness of breath while sitting still,emergency
+744,Crushing chest pain with severe sweating,emergency
+745,Severe burns covering a large part of the body,emergency
+746,Sudden inability to speak or understand words,emergency
+747,Unresponsive person after a major accident,emergency
+748,Severe allergic reaction causing difficulty breathing,emergency
+749,Coughing up a large amount of blood,emergency
+750,Severe asthma attack with difficulty breathing,emergency
+751,Sudden collapse with no response to surrounding people,emergency
+752,Heavy bleeding following a deep injury,emergency
+753,Severe chest pain spreading toward the arm,emergency
+754,Sudden facial drooping with weakness in one arm,emergency
+755,Severe breathing problems with blue fingertips,emergency
+756,Poisoning after accidentally swallowing a harmful substance,emergency
+757,Overdose after taking too much medication,emergency
+758,Severe dehydration with confusion and extreme weakness,emergency
+759,Sudden loss of consciousness without warning,emergency
+760,Severe abdominal pain with blood in vomit,emergency
+761,Sudden difficulty speaking accompanied by facial weakness,emergency
+762,Severe injury after a major road accident,emergency
+763,Continuous seizure with no recovery between episodes,emergency
+764,Sudden severe headache with confusion and weakness,emergency
+765,Severe chest pain accompanied by breathlessness,emergency
+766,Severe bleeding after a serious fall,emergency
+767,Sudden inability to see clearly in one eye,emergency
+768,Severe swelling of the face and throat after an allergic reaction,emergency
+769,Extreme difficulty breathing with blue lips,emergency
+770,Person is unconscious and cannot be awakened,emergency
+771,Severe head trauma after a high impact accident,emergency
+772,Sudden weakness and numbness on one side of the body,emergency
+773,Heavy uncontrolled bleeding from a wound,emergency
+774,Severe chest pressure with rapid breathing,emergency
+775,Severe difficulty breathing during a sudden asthma attack,emergency
+776,Sudden confusion followed by difficulty speaking,emergency
+777,Severe abdominal pain with fainting,emergency
+778,Unconsciousness following a head injury,emergency
+779,Sudden loss of movement in an arm or leg,emergency
+780,Severe allergic reaction with swelling of the tongue,emergency
+781,Large burn injury involving the face,emergency
+782,Severe bleeding after a workplace accident,emergency
+783,Sudden collapse with abnormal breathing,emergency
+784,Severe chest pain that began suddenly,emergency
+785,Repeated vomiting after a serious head injury,emergency
+786,Sudden difficulty walking with severe weakness,emergency
+787,Severe shortness of breath with blue discoloration around the lips,emergency
+788,Sudden inability to talk normally,emergency
+789,Severe poisoning with loss of consciousness,emergency
+790,Severe dehydration with fainting,emergency
+791,Seizure lasting longer than five minutes,emergency
+792,Sudden weakness on one side with difficulty speaking,emergency
+793,Severe abdominal pain with heavy bleeding,emergency
+794,Unconscious after falling from a height,emergency
+795,Severe chest pain with a very fast heartbeat,emergency
+796,Sudden vision loss accompanied by severe headache,emergency
+797,Severe breathing difficulty with confusion,emergency
+798,Major accident with multiple serious injuries,emergency
+799,Severe allergic reaction causing throat swelling and breathing difficulty,emergency
+800,Sudden collapse with severe chest pain and difficulty breathing,emergency
+801,Sudden weakness in my right arm and difficulty speaking,emergency
+802,Sudden facial drooping with trouble speaking,emergency
+803,I suddenly cannot lift one side of my body,emergency
+804,Sudden numbness on one side with unclear speech,emergency
+805,I suddenly became unable to speak properly,emergency
+806,Sudden confusion with weakness in one arm,emergency
+807,Sudden difficulty walking with facial drooping,emergency
+808,My speech suddenly became slurred and one side feels weak,emergency
+809,Sudden loss of strength in my left leg and difficulty speaking,emergency
+810,I suddenly developed numbness on one side of my body,emergency
+811,Sudden inability to understand what people are saying,emergency
+812,My face suddenly drooped and I cannot raise one arm,emergency
+813,Sudden weakness in my arm together with unclear speech,emergency
+814,I suddenly cannot speak normally and feel confused,emergency
+815,Sudden loss of coordination with weakness on one side,emergency
+816,My left side suddenly became weak and numb,emergency
+817,Sudden trouble speaking followed by weakness in my face,emergency
+818,I suddenly lost control of one side of my body,emergency
+819,Sudden confusion and difficulty moving one arm,emergency
+820,My speech became unclear suddenly and my face feels numb,emergency
+821,Sudden weakness in one leg with difficulty walking,emergency
+822,I suddenly cannot move my right arm normally,emergency
+823,Sudden numbness in my face and difficulty speaking,emergency
+824,My balance suddenly became severely impaired with weakness,emergency
+825,Sudden difficulty speaking with weakness on one side,emergency
+826,Severe pressure around my eyes with a completely blocked nose,ent
+827,Persistent sinus pressure with thick nasal discharge,ent
+828,My nose has been blocked for weeks and I have facial pressure,ent
+829,Reduced smell together with persistent sinus congestion,ent
+830,Pain around my cheeks with severe nasal congestion,ent
+831,Frequent sinus pressure that becomes worse when bending forward,ent
+832,Blocked nose with pressure around my forehead,ent
+833,Constant nasal congestion with difficulty breathing through my nose,ent
+834,Facial pressure and loss of smell after prolonged nasal blockage,ent
+835,Recurring sinus discomfort with a blocked nose,ent
+836,Pressure around my eyes and cheeks with nasal congestion,ent
+837,Persistent nasal blockage with reduced ability to smell,ent
+838,Sinus pressure accompanied by thick nasal mucus,ent
+839,My nose stays blocked and I have recurring facial pain,ent
+840,Head pressure with nasal congestion and reduced smell,ent
+841,Recurring stomach pain after eating meals,gastroenterologist
+842,Persistent heartburn and acid reflux after dinner,gastroenterologist
+843,Frequent abdominal cramps with changes in bowel movements,gastroenterologist
+844,Bloating and indigestion occurring after most meals,gastroenterologist
+845,Recurring constipation with abdominal discomfort,gastroenterologist
+846,Frequent diarrhea accompanied by stomach cramps,gastroenterologist
+847,Persistent nausea with recurring stomach pain,gastroenterologist
+848,Abdominal discomfort and bloating that have lasted for weeks,gastroenterologist
+849,Recurring vomiting and stomach pain after eating,gastroenterologist
+850,Chronic digestive discomfort with frequent acid reflux,gastroenterologist
